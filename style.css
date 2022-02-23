@@ -1,15 +1,29 @@
 body {
   padding: 50px;
-  background-color: black;
-  color: white;
+  background-color: antiquewhite;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 * {
   width: auto;
-  background-color: beige;
 }
 
 h1 {
   color: blueviolet;
+}
+
+h2 {
+  color: brown;
+  margin-top: 50px;
+}
+
+img.logo {
+  width: 100px;
+}
+
+img.html,
+img.js {
+  float: right;
+  width: 50px;
 }
