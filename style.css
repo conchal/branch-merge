@@ -1,15 +1,33 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
 body {
   padding: 50px;
   background-color: black;
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-* {
-  width: auto;
-  background-color: beige;
 }
 
 h1 {
   color: blueviolet;
+}
+
+h2 {
+  color: indianred;
+  margin-top: 50px;
+}
+
+img.logo {
+  width: 100px;
+}
+
+img.html,
+img.js {
+  float: right;
+  width: 50px;
+}
+
+img.back {
+  width: 25px;
 }
