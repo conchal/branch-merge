@@ -27,3 +27,7 @@ img.js {
   float: right;
   width: 50px;
 }
+
+img.back {
+  width: 25px;
+}
